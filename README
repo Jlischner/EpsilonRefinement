@@ -1,0 +1,6 @@
+refinement for BerkeleyGW epsilon calculation:
+
+i) specify parameters in input.m 
+ii) run epsilonfine.m in octave
+iii) for subsequent sigma refinement: 
+copy epsilon_output to directory from where sigmafine.m is run
